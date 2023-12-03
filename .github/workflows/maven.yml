@@ -1,4 +1,4 @@
-nname: Acciojob Tests
+name: Acciojob Tests
  
 on:
   push:
